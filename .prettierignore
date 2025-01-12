@@ -1,7 +1,7 @@
 /.yarn/
-/backend/build/
-/frontend/build/
-/frontend/.next/
+/base/build/
+/renderer/build/
+/renderer/.next/
 /dist/
 /node_modules/
 /stories/

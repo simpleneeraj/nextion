@@ -8,7 +8,7 @@ linux:
 mac:
   target: dmg
   category: public.app-category.social-networking
-files: ['backend/build/**/*', 'frontend/build/**/*']
+files: ['base/build/**/*', 'renderer/build/**/*']
 extraResources: ['./assets/**']
 directories:
   buildResources: 'assets'

@@ -3,10 +3,10 @@ stories
 
 # Build
 dist
-backend/build
-frontend/build
-frontend/.next
-frontend/next-env.d.ts
+base/build
+renderer/build
+renderer/.next
+renderer/next-env.d.ts
 
 # Logs
 logs
